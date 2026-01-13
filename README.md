@@ -1,2 +1,4 @@
 # DM-UP240190
-Mobile Develop Curse
+Rubén Salvador Negrete Carreón
+UP240190
+up240190@alumnos.upa.edu.mx
